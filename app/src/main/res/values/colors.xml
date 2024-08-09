@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="LBlack">#212121</color>
+    <color name="bg"> #1A1A1A </color>
+    <color name="card">#282828</color>
+    <color name="searchbg">#323232 </color>
+    <color name="red">#DC143C</color>
+    <color name="green"> #50C878</color>
+    <color name="purple">#4A0978</color>
+    <color name="purple_bg">#dfa1ed</color>
+    <color name="purplesplash">#4E0681</color>
+</resources>
